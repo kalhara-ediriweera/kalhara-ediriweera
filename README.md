@@ -4,6 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalhara-ediriweera&label=Profile%20views&color=0e75b6&style=flat" alt="kalhara-ediriweera" /> </p>
 
+<table width="100%" >
+<tr border="none">
+<td width="100%" align="left">
+  
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **kavindukalharaofficial@gmail.com**
@@ -13,6 +17,10 @@
 - 💬 Ask me about **Basic web development**
 
 - ⚡ Fun fact **KD**
+
+</table>
+</tr>
+</td>
 
 ---
 
