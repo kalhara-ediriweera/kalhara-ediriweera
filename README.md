@@ -34,11 +34,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kalhara-ediriweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalhara-ediriweera" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=61557903419210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/8prxawzfxytasmgv/?mibextid=lqqj4d" height="30" width="40" /></a>
-<a href="https://instagram.com/kalhara_ediriweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalhara_ediriweera" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kavindukalhara5079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kavindukalhara5079" height="30" width="40" /></a>
-<a href="https://discord.gg/kavindu_kalhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kavindu_kalhara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kalhara-ediriweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalhara-ediriweera" height="40" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=61557903419210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/8prxawzfxytasmgv/?mibextid=lqqj4d" height="40" width="50" /></a>
+<a href="https://instagram.com/kalhara_ediriweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalhara_ediriweera" height="40" width="50" /></a>
+<a href="https://www.youtube.com/@kavindukalhara5079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kavindukalhara5079" height="40" width="50" /></a>
+<a href="https://discord.gg/kavindu_kalhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kavindu_kalhara" height="40" width="50" /></a>
 </p>
 
 
