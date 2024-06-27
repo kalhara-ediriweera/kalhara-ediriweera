@@ -14,7 +14,7 @@
 -📫 How to reach me kavindukalharaofficial@gmail.com
 
 -⚡ Fun fact Call me as KD -->
-
+<img align="center"  src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="kavindu_kalhara" height="120" width="120" />
 <h1 align="center">Hi 👋, I'm Kavindu Kalhara</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
