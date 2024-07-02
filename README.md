@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalhara-ediriweera&label=Profile%20views&color=0e75b6&style=flat" alt="kalhara-ediriweera" /> </p>
 
-<table width="100%" >
+<table width="100%" align="center" >
 <tr border="none">
 <td width="100%" align="left">
   
@@ -18,9 +18,16 @@
 
 - ⚡ Fun fact **KD**
 
-</table>
-</tr>
+
 </td>
+
+
+<td >
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">    </td>  </tr>
+
+</table>
+
+
 
 ---
 
